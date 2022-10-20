@@ -4,6 +4,7 @@
 To install the project, you need to:
 
 * Execute the [init_db.sql](src/main/resources/init_db.sql) file into your PostgreSQL environment.
+* Execute the [insert_sessions.sql](src/main/resources/insert_sessions.sql) to update your db for question 2.
 * Run the Springboot application [InterviewApplication.java](src/main/java/com/cano/interview/InterviewApplication.java)
 
 ### Guides

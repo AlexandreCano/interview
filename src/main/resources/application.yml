@@ -3,3 +3,6 @@ spring:
     url: jdbc:postgresql://localhost:5432/testdb
     username: test_user
     password: password
+
+interview:
+  interval: 300
